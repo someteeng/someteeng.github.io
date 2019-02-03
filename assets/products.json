@@ -1,0 +1,90 @@
+{
+	"products": {
+		"product": [
+			{
+				"name": "goofy tee",
+				"img": "goofy tee.png",
+				"price": "60",
+				"desc": "This is a very high quality t-shirt"
+			},
+			{
+				"name": "mana tee",
+				"img": "mana ivy tee.png",
+				"price": "75",
+				"desc": "A very special t-shirt"
+			},
+			{
+				"name": "tiger tee",
+				"img": "tiger tee.png",
+				"price": "45",
+				"desc": "A legendary t-shirt"
+			},
+			{
+				"name": "dj kannabiz tee",
+				"img": "dj kannabiz tee.png",
+				"price": "60",
+				"desc": "A magical t-shirt"
+			},
+			{
+				"name": "colgate",
+				"img": "colgate.png",
+				"price": "40",
+				"desc": "An insane t-shirt"
+			},
+			{
+				"name": "ddrip",
+				"img": "ddrip.png",
+				"price": "40",
+				"desc": "An insane t-shirt"
+			},
+			{
+				"name": "dragon",
+				"img": "dragon.png",
+				"price": "40",
+				"desc": "An insane t-shirt"
+			},
+			{
+				"name": "dragonx",
+				"img": "dragonx.png",
+				"price": "40",
+				"desc": "An insane t-shirt"
+			},
+			{
+				"name": "freezy",
+				"img": "freezy.png",
+				"price": "40",
+				"desc": "An insane t-shirt"
+			},
+			{
+				"name": "icedragon",
+				"img": "icedragon.png",
+				"price": "40",
+				"desc": "An insane t-shirt"
+			},
+			{
+				"name": "key11",
+				"img": "key11.png",
+				"price": "40",
+				"desc": "An insane t-shirt"
+			},
+			{
+				"name": "smartfridge",
+				"img": "smartfridge.png",
+				"price": "40",
+				"desc": "An insane t-shirt"
+			},
+			{
+				"name": "ssmoke",
+				"img": "ssmoke.png",
+				"price": "40",
+				"desc": "An insane t-shirt"
+			},
+			{
+				"name": "trixter",
+				"img": "trixter.png",
+				"price": "40",
+				"desc": "An insane t-shirt"
+			}
+		]
+	}
+}
